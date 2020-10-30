@@ -3,8 +3,8 @@
 = Elasticsearch Query Generator
 
 The Elasticsearch Query Generator is a Spring Boot application to simplify the creation of Elasticsearch queries. It is based on
-https://github.com/picturesafe/picturesafe-search[picturesafe-search] and the
-https://github.com/picturesafe/picturesafe-search-starter[picturesafe-search Spring Boot starter] modules. To visualize the creation of Elasticsearch queries,
+https://github.com/all-things-search/abstract-search[abstract-search] and the
+https://github.com/all-things-search/abstract-search-starter[abstract-search Spring Boot starter] modules. To visualize the creation of Elasticsearch queries,
 it uses the https://vaadin.com/[vaadin] UI framework.
 
 image::screenshot.png[Screenshot]
